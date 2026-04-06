@@ -1,0 +1,397 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SIINO\\source\\repos\\DictionaryAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7B0526-7A01-9E82-EFDA-80D390149432}|DictionaryAPI\\DictionaryAPI.csproj|c:\\users\\siino\\source\\repos\\dictionaryapi\\dictionaryapi\\services\\interfaces\\iwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B7B0526-7A01-9E82-EFDA-80D390149432}|DictionaryAPI\\DictionaryAPI.csproj|solutionrelative:dictionaryapi\\services\\interfaces\\iwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7B0526-7A01-9E82-EFDA-80D390149432}|DictionaryAPI\\DictionaryAPI.csproj|c:\\users\\siino\\source\\repos\\dictionaryapi\\dictionaryapi\\controllers\\wordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B7B0526-7A01-9E82-EFDA-80D390149432}|DictionaryAPI\\DictionaryAPI.csproj|solutionrelative:dictionaryapi\\controllers\\wordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7B0526-7A01-9E82-EFDA-80D390149432}|DictionaryAPI\\DictionaryAPI.csproj|c:\\users\\siino\\source\\repos\\dictionaryapi\\dictionaryapi\\dtos_1\\pagedresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B7B0526-7A01-9E82-EFDA-80D390149432}|DictionaryAPI\\DictionaryAPI.csproj|solutionrelative:dictionaryapi\\dtos_1\\pagedresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7B0526-7A01-9E82-EFDA-80D390149432}|DictionaryAPI\\DictionaryAPI.csproj|c:\\users\\siino\\source\\repos\\dictionaryapi\\dictionaryapi\\dtos_1\\wordsearchresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B7B0526-7A01-9E82-EFDA-80D390149432}|DictionaryAPI\\DictionaryAPI.csproj|solutionrelative:dictionaryapi\\dtos_1\\wordsearchresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7B0526-7A01-9E82-EFDA-80D390149432}|DictionaryAPI\\DictionaryAPI.csproj|c:\\users\\siino\\source\\repos\\dictionaryapi\\dictionaryapi\\dtos_1\\searchwordquerydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B7B0526-7A01-9E82-EFDA-80D390149432}|DictionaryAPI\\DictionaryAPI.csproj|solutionrelative:dictionaryapi\\dtos_1\\searchwordquerydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7B0526-7A01-9E82-EFDA-80D390149432}|DictionaryAPI\\DictionaryAPI.csproj|c:\\users\\siino\\source\\repos\\dictionaryapi\\dictionaryapi\\domain\\wordtranslation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B7B0526-7A01-9E82-EFDA-80D390149432}|DictionaryAPI\\DictionaryAPI.csproj|solutionrelative:dictionaryapi\\domain\\wordtranslation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7B0526-7A01-9E82-EFDA-80D390149432}|DictionaryAPI\\DictionaryAPI.csproj|c:\\users\\siino\\source\\repos\\dictionaryapi\\dictionaryapi\\dtos_1\\wordresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B7B0526-7A01-9E82-EFDA-80D390149432}|DictionaryAPI\\DictionaryAPI.csproj|solutionrelative:dictionaryapi\\dtos_1\\wordresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7B0526-7A01-9E82-EFDA-80D390149432}|DictionaryAPI\\DictionaryAPI.csproj|c:\\users\\siino\\source\\repos\\dictionaryapi\\dictionaryapi\\dtos_1\\createworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B7B0526-7A01-9E82-EFDA-80D390149432}|DictionaryAPI\\DictionaryAPI.csproj|solutionrelative:dictionaryapi\\dtos_1\\createworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7B0526-7A01-9E82-EFDA-80D390149432}|DictionaryAPI\\DictionaryAPI.csproj|c:\\users\\siino\\source\\repos\\dictionaryapi\\dictionaryapi\\services\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B7B0526-7A01-9E82-EFDA-80D390149432}|DictionaryAPI\\DictionaryAPI.csproj|solutionrelative:dictionaryapi\\services\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7B0526-7A01-9E82-EFDA-80D390149432}|DictionaryAPI\\DictionaryAPI.csproj|c:\\users\\siino\\source\\repos\\dictionaryapi\\dictionaryapi\\domain\\word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B7B0526-7A01-9E82-EFDA-80D390149432}|DictionaryAPI\\DictionaryAPI.csproj|solutionrelative:dictionaryapi\\domain\\word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7B0526-7A01-9E82-EFDA-80D390149432}|DictionaryAPI\\DictionaryAPI.csproj|c:\\users\\siino\\source\\repos\\dictionaryapi\\dictionaryapi\\dtos_1\\addsynonymdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B7B0526-7A01-9E82-EFDA-80D390149432}|DictionaryAPI\\DictionaryAPI.csproj|solutionrelative:dictionaryapi\\dtos_1\\addsynonymdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7B0526-7A01-9E82-EFDA-80D390149432}|DictionaryAPI\\DictionaryAPI.csproj|c:\\users\\siino\\source\\repos\\dictionaryapi\\dictionaryapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B7B0526-7A01-9E82-EFDA-80D390149432}|DictionaryAPI\\DictionaryAPI.csproj|solutionrelative:dictionaryapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7B0526-7A01-9E82-EFDA-80D390149432}|DictionaryAPI\\DictionaryAPI.csproj|c:\\users\\siino\\source\\repos\\dictionaryapi\\dictionaryapi\\services\\languageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B7B0526-7A01-9E82-EFDA-80D390149432}|DictionaryAPI\\DictionaryAPI.csproj|solutionrelative:dictionaryapi\\services\\languageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7B0526-7A01-9E82-EFDA-80D390149432}|DictionaryAPI\\DictionaryAPI.csproj|c:\\users\\siino\\source\\repos\\dictionaryapi\\dictionaryapi\\dtos_1\\languagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B7B0526-7A01-9E82-EFDA-80D390149432}|DictionaryAPI\\DictionaryAPI.csproj|solutionrelative:dictionaryapi\\dtos_1\\languagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7B0526-7A01-9E82-EFDA-80D390149432}|DictionaryAPI\\DictionaryAPI.csproj|c:\\users\\siino\\source\\repos\\dictionaryapi\\dictionaryapi\\domain\\wordsynonym.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B7B0526-7A01-9E82-EFDA-80D390149432}|DictionaryAPI\\DictionaryAPI.csproj|solutionrelative:dictionaryapi\\domain\\wordsynonym.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7B0526-7A01-9E82-EFDA-80D390149432}|DictionaryAPI\\DictionaryAPI.csproj|c:\\users\\siino\\source\\repos\\dictionaryapi\\dictionaryapi\\domain\\partofspeech.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B7B0526-7A01-9E82-EFDA-80D390149432}|DictionaryAPI\\DictionaryAPI.csproj|solutionrelative:dictionaryapi\\domain\\partofspeech.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7B0526-7A01-9E82-EFDA-80D390149432}|DictionaryAPI\\DictionaryAPI.csproj|c:\\users\\siino\\source\\repos\\dictionaryapi\\dictionaryapi\\domain\\definition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B7B0526-7A01-9E82-EFDA-80D390149432}|DictionaryAPI\\DictionaryAPI.csproj|solutionrelative:dictionaryapi\\domain\\definition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7B0526-7A01-9E82-EFDA-80D390149432}|DictionaryAPI\\DictionaryAPI.csproj|c:\\users\\siino\\source\\repos\\dictionaryapi\\dictionaryapi\\services\\interfaces\\ilanguageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B7B0526-7A01-9E82-EFDA-80D390149432}|DictionaryAPI\\DictionaryAPI.csproj|solutionrelative:dictionaryapi\\services\\interfaces\\ilanguageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7B0526-7A01-9E82-EFDA-80D390149432}|DictionaryAPI\\DictionaryAPI.csproj|c:\\users\\siino\\source\\repos\\dictionaryapi\\dictionaryapi\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B7B0526-7A01-9E82-EFDA-80D390149432}|DictionaryAPI\\DictionaryAPI.csproj|solutionrelative:dictionaryapi\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7B0526-7A01-9E82-EFDA-80D390149432}|DictionaryAPI\\DictionaryAPI.csproj|c:\\users\\siino\\source\\repos\\dictionaryapi\\dictionaryapi\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B7B0526-7A01-9E82-EFDA-80D390149432}|DictionaryAPI\\DictionaryAPI.csproj|solutionrelative:dictionaryapi\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7B0526-7A01-9E82-EFDA-80D390149432}|DictionaryAPI\\DictionaryAPI.csproj|c:\\users\\siino\\source\\repos\\dictionaryapi\\dictionaryapi\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B7B0526-7A01-9E82-EFDA-80D390149432}|DictionaryAPI\\DictionaryAPI.csproj|solutionrelative:dictionaryapi\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7B0526-7A01-9E82-EFDA-80D390149432}|DictionaryAPI\\DictionaryAPI.csproj|c:\\users\\siino\\source\\repos\\dictionaryapi\\dictionaryapi\\controllers\\languagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B7B0526-7A01-9E82-EFDA-80D390149432}|DictionaryAPI\\DictionaryAPI.csproj|solutionrelative:dictionaryapi\\controllers\\languagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7B0526-7A01-9E82-EFDA-80D390149432}|DictionaryAPI\\DictionaryAPI.csproj|c:\\users\\siino\\source\\repos\\dictionaryapi\\dictionaryapi\\domain\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B7B0526-7A01-9E82-EFDA-80D390149432}|DictionaryAPI\\DictionaryAPI.csproj|solutionrelative:dictionaryapi\\domain\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\SIINO\\source\\repos\\DictionaryAPI\\DictionaryAPI\\Services\\DbContext.cs",
+              "RelativeDocumentMoniker": "DictionaryAPI\\Services\\DbContext.cs",
+              "ToolTip": "C:\\Users\\SIINO\\source\\repos\\DictionaryAPI\\DictionaryAPI\\Services\\DbContext.cs",
+              "RelativeToolTip": "DictionaryAPI\\Services\\DbContext.cs",
+              "ViewState": "AgIAAEcAAACA0MzMzIwtwBAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T18:56:02.919Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WordsController.cs",
+              "DocumentMoniker": "C:\\Users\\SIINO\\source\\repos\\DictionaryAPI\\DictionaryAPI\\Controllers\\WordsController.cs",
+              "RelativeDocumentMoniker": "DictionaryAPI\\Controllers\\WordsController.cs",
+              "ToolTip": "C:\\Users\\SIINO\\source\\repos\\DictionaryAPI\\DictionaryAPI\\Controllers\\WordsController.cs",
+              "RelativeToolTip": "DictionaryAPI\\Controllers\\WordsController.cs",
+              "ViewState": "AgIAAJkAAAAANDMzMzPzv60AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T19:09:49.694Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IWordService.cs",
+              "DocumentMoniker": "C:\\Users\\SIINO\\source\\repos\\DictionaryAPI\\DictionaryAPI\\Services\\Interfaces\\IWordService.cs",
+              "RelativeDocumentMoniker": "DictionaryAPI\\Services\\Interfaces\\IWordService.cs",
+              "ToolTip": "C:\\Users\\SIINO\\source\\repos\\DictionaryAPI\\DictionaryAPI\\Services\\Interfaces\\IWordService.cs",
+              "RelativeToolTip": "DictionaryAPI\\Services\\Interfaces\\IWordService.cs",
+              "ViewState": "AgIAAOUAAAAAAAAAAAABwLoAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T21:06:46.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PagedResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\SIINO\\source\\repos\\DictionaryAPI\\DictionaryAPI\\DTOs_1\\PagedResponseDto.cs",
+              "RelativeDocumentMoniker": "DictionaryAPI\\DTOs_1\\PagedResponseDto.cs",
+              "ToolTip": "C:\\Users\\SIINO\\source\\repos\\DictionaryAPI\\DictionaryAPI\\DTOs_1\\PagedResponseDto.cs",
+              "RelativeToolTip": "DictionaryAPI\\DTOs_1\\PagedResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T21:13:44.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WordSearchResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\SIINO\\source\\repos\\DictionaryAPI\\DictionaryAPI\\DTOs_1\\WordSearchResponseDto.cs",
+              "RelativeDocumentMoniker": "DictionaryAPI\\DTOs_1\\WordSearchResponseDto.cs",
+              "ToolTip": "C:\\Users\\SIINO\\source\\repos\\DictionaryAPI\\DictionaryAPI\\DTOs_1\\WordSearchResponseDto.cs",
+              "RelativeToolTip": "DictionaryAPI\\DTOs_1\\WordSearchResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T21:13:13.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SearchWordQueryDto.cs",
+              "DocumentMoniker": "C:\\Users\\SIINO\\source\\repos\\DictionaryAPI\\DictionaryAPI\\DTOs_1\\SearchWordQueryDto.cs",
+              "RelativeDocumentMoniker": "DictionaryAPI\\DTOs_1\\SearchWordQueryDto.cs",
+              "ToolTip": "C:\\Users\\SIINO\\source\\repos\\DictionaryAPI\\DictionaryAPI\\DTOs_1\\SearchWordQueryDto.cs",
+              "RelativeToolTip": "DictionaryAPI\\DTOs_1\\SearchWordQueryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T21:12:31.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WordTranslation.cs",
+              "DocumentMoniker": "C:\\Users\\SIINO\\source\\repos\\DictionaryAPI\\DictionaryAPI\\Domain\\WordTranslation.cs",
+              "RelativeDocumentMoniker": "DictionaryAPI\\Domain\\WordTranslation.cs",
+              "ToolTip": "C:\\Users\\SIINO\\source\\repos\\DictionaryAPI\\DictionaryAPI\\Domain\\WordTranslation.cs",
+              "RelativeToolTip": "DictionaryAPI\\Domain\\WordTranslation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T19:17:41.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Word.cs",
+              "DocumentMoniker": "C:\\Users\\SIINO\\source\\repos\\DictionaryAPI\\DictionaryAPI\\Domain\\Word.cs",
+              "RelativeDocumentMoniker": "DictionaryAPI\\Domain\\Word.cs",
+              "ToolTip": "C:\\Users\\SIINO\\source\\repos\\DictionaryAPI\\DictionaryAPI\\Domain\\Word.cs",
+              "RelativeToolTip": "DictionaryAPI\\Domain\\Word.cs",
+              "ViewState": "AgIAAAUAAADgaGZmZmYrwAUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T18:54:15.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WordResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\SIINO\\source\\repos\\DictionaryAPI\\DictionaryAPI\\DTOs_1\\WordResponseDto.cs",
+              "RelativeDocumentMoniker": "DictionaryAPI\\DTOs_1\\WordResponseDto.cs",
+              "ToolTip": "C:\\Users\\SIINO\\source\\repos\\DictionaryAPI\\DictionaryAPI\\DTOs_1\\WordResponseDto.cs",
+              "RelativeToolTip": "DictionaryAPI\\DTOs_1\\WordResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T19:04:24.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateWordDto.cs",
+              "DocumentMoniker": "C:\\Users\\SIINO\\source\\repos\\DictionaryAPI\\DictionaryAPI\\DTOs_1\\CreateWordDto.cs",
+              "RelativeDocumentMoniker": "DictionaryAPI\\DTOs_1\\CreateWordDto.cs",
+              "ToolTip": "C:\\Users\\SIINO\\source\\repos\\DictionaryAPI\\DictionaryAPI\\DTOs_1\\CreateWordDto.cs",
+              "RelativeToolTip": "DictionaryAPI\\DTOs_1\\CreateWordDto.cs",
+              "ViewState": "AgIAAAEAAAAAZmZmZmb0vw0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T19:13:22.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SIINO\\source\\repos\\DictionaryAPI\\DictionaryAPI\\Program.cs",
+              "RelativeDocumentMoniker": "DictionaryAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\SIINO\\source\\repos\\DictionaryAPI\\DictionaryAPI\\Program.cs",
+              "RelativeToolTip": "DictionaryAPI\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T18:26:54.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LanguageService.cs",
+              "DocumentMoniker": "C:\\Users\\SIINO\\source\\repos\\DictionaryAPI\\DictionaryAPI\\Services\\LanguageService.cs",
+              "RelativeDocumentMoniker": "DictionaryAPI\\Services\\LanguageService.cs",
+              "ToolTip": "C:\\Users\\SIINO\\source\\repos\\DictionaryAPI\\DictionaryAPI\\Services\\LanguageService.cs",
+              "RelativeToolTip": "DictionaryAPI\\Services\\LanguageService.cs",
+              "ViewState": "AgIAAAIAAAAwAgAAAIAZwBEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T18:22:43.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddSynonymDto.cs",
+              "DocumentMoniker": "C:\\Users\\SIINO\\source\\repos\\DictionaryAPI\\DictionaryAPI\\DTOs_1\\AddSynonymDto.cs",
+              "RelativeDocumentMoniker": "DictionaryAPI\\DTOs_1\\AddSynonymDto.cs",
+              "ToolTip": "C:\\Users\\SIINO\\source\\repos\\DictionaryAPI\\DictionaryAPI\\DTOs_1\\AddSynonymDto.cs",
+              "RelativeToolTip": "DictionaryAPI\\DTOs_1\\AddSynonymDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T18:32:35.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LanguageDto.cs",
+              "DocumentMoniker": "C:\\Users\\SIINO\\source\\repos\\DictionaryAPI\\DictionaryAPI\\DTOs_1\\LanguageDto.cs",
+              "RelativeDocumentMoniker": "DictionaryAPI\\DTOs_1\\LanguageDto.cs",
+              "ToolTip": "C:\\Users\\SIINO\\source\\repos\\DictionaryAPI\\DictionaryAPI\\DTOs_1\\LanguageDto.cs",
+              "RelativeToolTip": "DictionaryAPI\\DTOs_1\\LanguageDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T18:20:48.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WordSynonym.cs",
+              "DocumentMoniker": "C:\\Users\\SIINO\\source\\repos\\DictionaryAPI\\DictionaryAPI\\Domain\\WordSynonym.cs",
+              "RelativeDocumentMoniker": "DictionaryAPI\\Domain\\WordSynonym.cs",
+              "ToolTip": "C:\\Users\\SIINO\\source\\repos\\DictionaryAPI\\DictionaryAPI\\Domain\\WordSynonym.cs",
+              "RelativeToolTip": "DictionaryAPI\\Domain\\WordSynonym.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T18:29:44.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PartOfSpeech.cs",
+              "DocumentMoniker": "C:\\Users\\SIINO\\source\\repos\\DictionaryAPI\\DictionaryAPI\\Domain\\PartOfSpeech.cs",
+              "RelativeDocumentMoniker": "DictionaryAPI\\Domain\\PartOfSpeech.cs",
+              "ToolTip": "C:\\Users\\SIINO\\source\\repos\\DictionaryAPI\\DictionaryAPI\\Domain\\PartOfSpeech.cs",
+              "RelativeToolTip": "DictionaryAPI\\Domain\\PartOfSpeech.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T17:06:03.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Definition.cs",
+              "DocumentMoniker": "C:\\Users\\SIINO\\source\\repos\\DictionaryAPI\\DictionaryAPI\\Domain\\Definition.cs",
+              "RelativeDocumentMoniker": "DictionaryAPI\\Domain\\Definition.cs",
+              "ToolTip": "C:\\Users\\SIINO\\source\\repos\\DictionaryAPI\\DictionaryAPI\\Domain\\Definition.cs",
+              "RelativeToolTip": "DictionaryAPI\\Domain\\Definition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T19:30:24.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ILanguageService.cs",
+              "DocumentMoniker": "C:\\Users\\SIINO\\source\\repos\\DictionaryAPI\\DictionaryAPI\\Services\\Interfaces\\ILanguageService.cs",
+              "RelativeDocumentMoniker": "DictionaryAPI\\Services\\Interfaces\\ILanguageService.cs",
+              "ToolTip": "C:\\Users\\SIINO\\source\\repos\\DictionaryAPI\\DictionaryAPI\\Services\\Interfaces\\ILanguageService.cs",
+              "RelativeToolTip": "DictionaryAPI\\Services\\Interfaces\\ILanguageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T18:21:31.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\SIINO\\source\\repos\\DictionaryAPI\\DictionaryAPI\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "DictionaryAPI\\Middlewares\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\SIINO\\source\\repos\\DictionaryAPI\\DictionaryAPI\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "DictionaryAPI\\Middlewares\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAACAAAACiaGZmZqYzwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T19:12:20.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BadRequestException.cs",
+              "DocumentMoniker": "C:\\Users\\SIINO\\source\\repos\\DictionaryAPI\\DictionaryAPI\\Exceptions\\BadRequestException.cs",
+              "RelativeDocumentMoniker": "DictionaryAPI\\Exceptions\\BadRequestException.cs",
+              "ToolTip": "C:\\Users\\SIINO\\source\\repos\\DictionaryAPI\\DictionaryAPI\\Exceptions\\BadRequestException.cs",
+              "RelativeToolTip": "DictionaryAPI\\Exceptions\\BadRequestException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T19:11:11.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\SIINO\\source\\repos\\DictionaryAPI\\DictionaryAPI\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "DictionaryAPI\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\SIINO\\source\\repos\\DictionaryAPI\\DictionaryAPI\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "DictionaryAPI\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T19:10:25.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LanguagesController.cs",
+              "DocumentMoniker": "C:\\Users\\SIINO\\source\\repos\\DictionaryAPI\\DictionaryAPI\\Controllers\\LanguagesController.cs",
+              "RelativeDocumentMoniker": "DictionaryAPI\\Controllers\\LanguagesController.cs",
+              "ToolTip": "C:\\Users\\SIINO\\source\\repos\\DictionaryAPI\\DictionaryAPI\\Controllers\\LanguagesController.cs",
+              "RelativeToolTip": "DictionaryAPI\\Controllers\\LanguagesController.cs",
+              "ViewState": "AgIAAAYAAAAA/v////8AwBEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T18:27:44.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Language.cs",
+              "DocumentMoniker": "C:\\Users\\SIINO\\source\\repos\\DictionaryAPI\\DictionaryAPI\\Domain\\Language.cs",
+              "RelativeDocumentMoniker": "DictionaryAPI\\Domain\\Language.cs",
+              "ToolTip": "C:\\Users\\SIINO\\source\\repos\\DictionaryAPI\\DictionaryAPI\\Domain\\Language.cs",
+              "RelativeToolTip": "DictionaryAPI\\Domain\\Language.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T19:44:30.822Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
